@@ -1,0 +1,1 @@
+pic,200,2,Hijab,Mouchak,../assets/image/pic.jpeg$
